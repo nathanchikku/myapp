@@ -1,0 +1,16 @@
+.container text-center{
+    width:100%;
+}
+table {
+    width: 100%;
+  }
+  .mat-header-row{
+      background-color: #edbf44;
+  }
+  .mat-header-cell {
+       color:white;
+       font-size: 16px;
+  }
+  .material-icons{
+      color: red;
+  }
